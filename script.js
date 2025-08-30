@@ -120,5 +120,4 @@ addArticleBtn.onclick = function() {
 document.querySelector("aside").onmouseover = function() { this.style.backgroundColor = "#fafad2"; }
 document.querySelector("aside").onmouseout = function() { this.style.backgroundColor = "white"; }
 
-// 22. تغيير نص span داخل div عند الضغط
 document.querySelector("span").onclick = function() { this.textContent = "Span text changed!"; }
