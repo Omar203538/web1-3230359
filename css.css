@@ -1,0 +1,78 @@
+
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+h1 { color: #2e8b57; }
+h2 { color: #ff6347; }
+h3 { color: #4682b4; }
+h4 { color: #6a5acd; }
+h5 { color: #ff69b4; }
+h6 { color: #cd5c5c; }
+
+
+p { font-size: 15px; line-height: 1.5; color: #333; }
+
+
+a { text-decoration: none; color: #0066cc; margin-right: 10px; }
+a:hover { color: #ff4500; text-decoration: underline; }
+
+
+img { border: 2px solid #333; border-radius: 5px; margin: 5px 0; }
+
+
+ul, ol { margin-bottom: 20px; padding-left: 20px; }
+
+
+table { border-collapse: collapse; width: 70%; margin-bottom: 20px; }
+th, td { border: 1px solid #333; padding: 8px; text-align: left; }
+
+
+input, select, textarea { padding: 5px; margin-bottom: 10px; }
+
+
+button, input[type="submit"] {
+    background-color: #2e8b57;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+button:hover, input[type="submit"]:hover { background-color: #ff4500; }
+
+video, audio { display: block; margin-bottom: 15px; }
+
+div { border: 1px solid #555; padding: 10px; margin-bottom: 10px; }
+span { color: #ff4500; font-weight: bold; }
+
+
+header, footer { background-color: #eee; padding: 10px; margin-bottom: 10px; text-align: center; }
+
+
+nav a { margin-right: 10px; color: #000; font-weight: bold; }
+nav a:hover { color: #2e8b57; }
+
+
+section, article { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
+
+aside { border: 1px dashed #888; padding: 5px; margin-bottom: 10px; }
+
+mark { background-color: yellow; }
+small { font-size: 12px; color: #666; }
+
+
+p:hover { background-color: #ffffcc; }
+h1:hover { text-decoration: underline; }
+
+
+iframe { border: 2px solid #000; margin-bottom: 10px; }
+
+hr { border: 1px solid #333; margin: 20px 0; }
+
+/* 20. إضافات عامة */
+body { line-height: 1.6; }
